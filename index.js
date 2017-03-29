@@ -392,7 +392,7 @@ fogbugz = {
             var value = kase[key];
             bug[key] = _.isArray(value) && value.length === 1 ?
               // dereference
-              bug[key] = value[0].trim() :
+              bug[key] = value[0] :
               value;
           });
         bug._raw = kase;
