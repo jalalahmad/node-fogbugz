@@ -25,7 +25,7 @@
     "load-grunt-config": "^0.17.2",
     "mocha": "^3.1.0",
     "pre-commit": "^1.1.1",
-    "rewire": "^2.3.4",
+    "rewire": "^5.0.0",
     "sinon": "^1.15.4",
     "sinon-chai": "^2.8.0",
     "time-grunt": "^1.2.1"
